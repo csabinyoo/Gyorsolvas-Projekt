@@ -1,0 +1,7 @@
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\bin\Debug\FastReader.exe.config
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\bin\Debug\FastReader.exe
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\bin\Debug\FastReader.pdb
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\obj\Debug\FastReader.csproj.AssemblyReference.cache
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\obj\Debug\FastReader.csproj.CoreCompileInputs.cache
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\obj\Debug\FastReader.exe
+C:\Users\minda\OneDrive\Asztali gép\Projekt\FastReader\FastReader\obj\Debug\FastReader.pdb
